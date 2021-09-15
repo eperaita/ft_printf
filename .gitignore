@@ -1,0 +1,7 @@
+.DS_Store
+*.[ao]
+*.swp
+*.gch
+*.out
+pft/
+printfTester
